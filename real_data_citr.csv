@@ -1,4 +1,4 @@
-,t_ms,type,user_id,x,y,x_est,y_est,vx_est,vy_est,yaw_est,vel_est,s_id
+,t_ms,type,id,x,y,x_est,y_est,vx_est,vy_est,yaw_est,vel_est,scenario_id
 0,10.5,p,p1,24.2553,6.7883,24.2553,6.7883,-1.1217,-0.2137,,,1
 1,11.0,p,p1,23.6945,6.6815,23.6945,6.6815,-1.1217,-0.2137,,,1
 2,11.5,p,p1,23.1117,6.3757,23.1122,6.3803,-1.1527,-0.4947,,,1
